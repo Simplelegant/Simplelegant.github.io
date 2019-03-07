@@ -15,3 +15,7 @@ tags:
 因此，前端我们需要实现用户网站的界面和后台管理系统的界面，我选用VUE+Bootstrap来实现，具体界面如下：
 ![training](https://simplelegant.github.io/img/blog-webapp-admin-activity.jpg)
 ![training](https://simplelegant.github.io/img/blog-webapp-user-ui.png)
+后端选用了PHP+MySQL,实现了用户和旅游商品的数据库，用户的微信在线付款功能以及后台管理系统等
+![training](https://simplelegant.github.io/img/blog-webapp-phpadmin2.jpg)
+![training](https://simplelegant.github.io/img/blog-webapp-pay.png)
+简单来说就是这样啦~就当做是对以前所做项目的一个回忆吧！
