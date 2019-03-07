@@ -20,7 +20,7 @@ A1: ~ chmod +x ./configure
 	shell脚本在新机器上记得添加执行权限<br>
 
 Q2: 整体编译流程？<br>
-A2:	$ cd unpv13e   <br>
+A2:	>$ cd unpv13e   <br>
 	>~unpv13e/$ ./configure  
   
 	>~unpv13e/$ cd lib  
